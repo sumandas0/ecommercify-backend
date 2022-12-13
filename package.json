@@ -23,7 +23,7 @@
     "@sentry/integrations": "^5.20.0",
     "@sentry/node": "^5.20.0",
     "argon2": "^0.26.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-validator": "^6.6.0",
     "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.19",
